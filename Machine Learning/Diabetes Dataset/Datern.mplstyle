@@ -1,0 +1,48 @@
+### AXES
+axes.axisbelow: True
+axes.edgecolor: black
+axes.facecolor: white
+axes.grid: False
+axes.labelsize: 20
+axes.labelweight: bold
+axes.linewidth: 1.5
+axes.prop_cycle: cycler('color', ['A834FF', '00ACF0', '3F27C2', 'CD2BFF', '42FCFF', 'A834FF', '00ACF0', '3F27C2', 'CD2BFF', '42FCFF'])
+axes.spines.right: False
+axes.spines.top: False
+axes.titlesize: 20
+axes.titleweight: 700
+
+### FIGURE
+figure.dpi: 100
+figure.facecolor: white
+figure.figsize: 20,10
+figure.titlesize: 20
+figure.titleweight: 700
+
+### FONTS
+font.family: sans-serif
+font.sans-serif: Avenir, 'Avenir Next LT Pro', Arial, Helvetica, sans-serif
+font.weight: bold
+font.size: 10
+
+### LEGEND
+legend.fontsize: 13
+legend.title_fontsize: 16
+
+### LINES
+lines.linewidth: 2
+lines.color: 9755E2
+
+### PATCHES
+patch.facecolor: 0072B2
+
+### TICKS
+xtick.direction: out
+xtick.labelsize: 19
+ytick.direction: out
+ytick.labelsize: 19
+
+
+
+
+
